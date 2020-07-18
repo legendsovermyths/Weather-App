@@ -2,7 +2,7 @@ import 'package:weatherapp/services/networking.dart';
 import 'package:flutter/material.dart';
 import 'package:weatherapp/screens/location_screen.dart';
 import 'package:weatherapp/services/location.dart';
-const String API='73497be81a4a69f0e94a0ba6b0335bc4';
+const String API='Open Weather API key';
 
 class WeatherModel {
   double longitude;
